@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning How to Code with HTML and CSS!
 - 📫 How to reach me: briannap203@nycstudents.net
 - 😄 Pronouns: She/Them (You can use She/Her, and They/Them)
-- ⚡ Fun fact: .. BOO!
+- ⚡ Fun fact: I can sing the Alphabet Backwards.
 
 <!---
 briannap6399/briannap6399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
